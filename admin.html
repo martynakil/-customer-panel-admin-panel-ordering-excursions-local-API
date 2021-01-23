@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+
+</head>
+
+<body>
+    <h1> administrator panel</h1>
+    <section class="panel">
+        <ul class="panel__excurions excursions">
+            <li data-id="" class="excurions__item excurions__item--prototype">
+                <header class="excursions__header">
+                    <h2 class="excursions__title">Tokio</h2>
+                    <p class="excursions__description">ist the capital and most populous prefecture of Japan. Located at
+                        the head of Tokyo Bay, the prefecture forms part of the Kantō region on the central Pacific
+                        coast of Japan’s main island of Honshu. Tokyo is the political and economic center of the
+                        country, as well as the seat of the Emperor of Japan and the national government. In 2019, the
+                        prefecture had an estimated population of 13,929,280.</p>
+                </header>
+                <form class="excursions__form">
+                    <div class="excurions__field">
+                        <label class="excursions__field-name excursions__field-name--adults">
+                            Adults: <strong class="price__adults"></strong>
+                        </label>
+                    </div>
+                    <div class="excurions__field">
+                        <label class="excursions__field-name excursions__field-name--children">
+                            Children: <strong class="price__children"></strong>
+                        </label>
+                    </div>
+                    <div class="excurions__field excurions__field--submit">
+                        <input class="excursions__field-input excursions__field-input--update" value="edit"
+                            type="submit" />
+                        <input class="excursions__field-input excursions__field-input--remove" value="delete"
+                            type="submit" />
+                    </div>
+                </form>
+            </li>
+        </ul>
+        <section>
+            <form class="form" novalidate>
+                <div class="form__row">
+                    <label class="form__label">
+                        Name:<input class="form__field form__field--name" name="name" />
+                    </label>
+                </div>
+                <div class="form__row">
+                    <label class="form__label">
+                        Descripton:<textarea class="form__field form__field--longtext" name="description"></textarea>
+                    </label>
+                </div>
+                <div class="form__row">
+                    <label class="form__label">
+                        Adult price:<input class="form__field form__field--adults" type="number" name="name" />
+                    </label>
+                </div>
+                <div class="form__row">
+                    <label class="form__label">
+                        Children price:<input class="order__form__field order__form__field--children" type="number"
+                            name="name" />
+                    </label>
+                </div>
+                <div class="order__field order__field--submit">
+                    <input class="order__field-input order__field-submit order__field-submit--add" value="add"
+                        type="submit" />
+                </div>
+            </form>
+
+        </section>
+    </section>
+
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+{
+  "name": "task-excusions-api",
+  "version": "1.0.0",
+  "description": "## Wprowadzanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx webpack-dev-server --open",
+    "build": "npx webpack --mode production",
+    "startjson": "json-server --watch excursions.json --port 3005"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-loader": "^8.2.1",
+    "css-loader": "^3.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.3.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martynakil/task-js-api-and-fetch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martynakil/task-js-api-and-fetch/issues"
+  },
+  "homepage": "https://github.com/martynakil/task-js-api-and-fetch#readme"
+}
