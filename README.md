@@ -34,7 +34,7 @@ http://localhost:8080/
 * how to clone an item in JS
 * how to use ( forEach Method](https://www.w3schools.com/jsref/jsref_foreach.asp)
 * what is prototype in JS
-* what is [setAttribute() Method](https://www.w3schools.com/jsref/met_element_setattribute.asp)
+* what is [setAttribute Method](https://www.w3schools.com/jsref/met_element_setattribute.asp)
 * what is [ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
 * first of all, how does the API work!
 * I used webpack
