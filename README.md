@@ -112,8 +112,8 @@ My next small project from JS   :arrow_right: :arrow_right: :arrow_right: [CL
 
 **view of the client's panel
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59742201/107833190-d0c29d00-6d92-11eb-82f0-548f76354f72.gif)
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59742201/107833147-a375ef00-6d92-11eb-8348-8e2723e58103.gif)
 
 
 
