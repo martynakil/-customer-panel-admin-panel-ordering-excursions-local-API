@@ -112,7 +112,9 @@ My next small project from JS   :arrow_right: :arrow_right: :arrow_right: [CL
 
 **view of the client's panel
 
- json-server --watch excursions.json --port 3005
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59742201/107833147-a375ef00-6d92-11eb-8348-8e2723e58103.gif)
+
 
 
 **view of the client's api
