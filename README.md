@@ -70,8 +70,10 @@ go to the root directory and type
 From now on, the API will be available at: http: // localhost: 3000, 
 
 but note that there are two different resources in the file, i.e.
+
 * excursions
 * orders
+
 Depending on what data you want to work on, you will pass a different URL to fetch (), i.e.
 
 ----
