@@ -99,19 +99,19 @@ My next small project from JS   :arrow_right: :arrow_right: :arrow_right: [CL
 ----
 
 
-**ADMIN PANEL  :eyes::
+**ADMIN PANEL**  :eyes::
 
 ![Zrzut ekranu 2021-02-13 o 00 32 29](https://user-images.githubusercontent.com/59742201/107833267-02d3ff00-6d93-11eb-9442-8f63f70e1fb7.png)
 
 
 
-**API ADMIN  :eyes:
+**API ADMIN**  :eyes:
 
 ![Zrzut ekranu 2021-02-12 o 23](https://user-images.githubusercontent.com/59742201/107832859-d2d82c00-6d91-11eb-8354-51d111aef4f1.png)
 
 
 
-**CLIENT PANEL  :eyes:
+**CLIENT PANEL**  :eyes:
 
 
 ![Zrzut ekranu 2021-02-13 o 00 33 22](https://user-images.githubusercontent.com/59742201/107833296-154e3880-6d93-11eb-8883-d2b3275204b4.png)
@@ -119,6 +119,6 @@ My next small project from JS   :arrow_right: :arrow_right: :arrow_right: [CL
 
 
 
-**API ORDER  :eyes:
+**API ORDER**  :eyes:
 
 ![Zrzut ekranu 2021-02-12 o 23 43 12](https://user-images.githubusercontent.com/59742201/107832963-1d59a880-6d92-11eb-806d-31dc697a98d7.png)
