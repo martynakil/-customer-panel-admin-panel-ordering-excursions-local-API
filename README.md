@@ -15,6 +15,7 @@ http://localhost:8080/admin.html
 
 * adds a tour,  he enters the name of the trip, price and description in the form.
 * this tour appears in the local API. at the address: http://localhost:3005/excursions
+* can edit and delete the tour
 
 **CLIENT (client panel)** :sassy_woman:
 http://localhost:8080/
