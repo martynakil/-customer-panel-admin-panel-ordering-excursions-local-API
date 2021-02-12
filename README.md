@@ -30,9 +30,9 @@ http://localhost:8080/
 <h3>What did I use in the project? What have I learned?</h3>
 
 * First of all, here I was learning how API works
-* (comparison operator)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality]
+* [comparison operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
 * how to clone an item in JS
-* how to use ( forEach Method](https://www.w3schools.com/jsref/jsref_foreach.asp)
+* how to use [forEach Method](https://www.w3schools.com/jsref/jsref_foreach.asp)
 * what is prototype in JS
 * what is [setAttribute Method](https://www.w3schools.com/jsref/met_element_setattribute.asp)
 * what is [ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
