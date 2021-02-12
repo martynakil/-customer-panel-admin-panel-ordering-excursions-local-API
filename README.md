@@ -16,7 +16,7 @@ http://localhost:8080/admin.html
 * adds a tour,  he enters the name of the trip, price and description in the form.
 * this tour appears in the local API. at the address: http://localhost:3005/excursions
 
-**CLIENT (client panel) ** :sassy_woman:
+**CLIENT (client panel)** :sassy_woman:
 http://localhost:8080/
 
 * the customer sees all tours added by the admin (with description, price and of course name)
