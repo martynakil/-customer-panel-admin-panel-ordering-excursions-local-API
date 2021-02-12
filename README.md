@@ -99,22 +99,22 @@ My next small project from JS   :arrow_right: :arrow_right: :arrow_right: [CL
 ----
 
 
-view on the admin panel:
+**view on the admin panel:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59742201/107832818-bc31d500-6d91-11eb-80b0-121a1e755130.gif)
 
 
-view of the api
+**view of the api
 
 ![Zrzut ekranu 2021-02-12 o 23](https://user-images.githubusercontent.com/59742201/107832859-d2d82c00-6d91-11eb-8354-51d111aef4f1.png)
 
 
 
-view of the client's panel
+**view of the client's panel
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59742201/107832941-087d1500-6d92-11eb-830d-91cc63c0cd49.gif)
+ json-server --watch excursions.json --port 3005
 
 
-view of the client's api
+**view of the client's api
 
 ![Zrzut ekranu 2021-02-12 o 23 43 12](https://user-images.githubusercontent.com/59742201/107832963-1d59a880-6d92-11eb-806d-31dc697a98d7.png)
