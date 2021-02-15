@@ -23,7 +23,7 @@ http://localhost:8080/
 * the customer sees all tours added by the admin (with description, price and of course name)
 * the customer can add the selected tour to the order (must enter the number of people)
 * after selecting the tour, he can place an order. In the form, he sees the selected tours. Must enter name and email.
-*This order also appears in the local API at: http://localhost:3005/orders
+* This order also appears in the local API at: http://localhost:3005/orders
 
 
 -------
