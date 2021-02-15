@@ -30,16 +30,16 @@ http://localhost:8080/
 
 <h3>What did I use in the project? What have I learned?</h3>
 
-* First of all, here I was learning how API works
-* [comparison operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
-* how to clone an item in JS
-* how to use [forEach Method](https://www.w3schools.com/jsref/jsref_foreach.asp)
-* what is prototype in JS
-* what is [setAttribute Method](https://www.w3schools.com/jsref/met_element_setattribute.asp)
-* what is [ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
-* first of all, how does the API work!
-* I used webpack
-* what is [JSON SERVER](https://www.npmjs.com/package/json-server)
+:heavy_check_mark: First of all, here I was learning how API works
+:heavy_check_mark: [comparison operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
+:heavy_check_mark: how to clone an item in JS
+:heavy_check_mark: how to use [forEach Method](https://www.w3schools.com/jsref/jsref_foreach.asp)
+:heavy_check_mark: what is prototype in JS
+:heavy_check_mark: what is [setAttribute Method](https://www.w3schools.com/jsref/met_element_setattribute.asp)
+:heavy_check_mark: what is [ParentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
+:heavy_check_mark: first of all, how does the API work!
+:heavy_check_mark: I used webpack
+:heavy_check_mark: what is [JSON SERVER](https://www.npmjs.com/package/json-server)
 
 
 -----
